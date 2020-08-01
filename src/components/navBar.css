@@ -1,0 +1,10 @@
+.navbar {
+  border: none;
+}
+.navbar .navbar-brand {
+  padding-top: 0px;
+}
+.navbar-nav .nav-item:hover a.nav-link {
+  background-color: brown;
+  color: white;
+}
